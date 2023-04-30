@@ -1,8 +1,6 @@
 name: Update documentation
 
-on:
-  repository_dispatch:
-    types: [update-documentation]
+on: push
 
 jobs:
   build:

@@ -9,4 +9,4 @@
 [submodule "repositories/revanced-cli"]
 	path = repositories/revanced-cli
 	url = https://github.com/revanced/revanced-cli.git
-	branch = feat/docs
+	branch = main
